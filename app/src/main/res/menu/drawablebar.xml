@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drawablebar"
+        android:title="dashboard"
+        android:icon="@drawable/ic_dashboard"/>
+    <item
+        android:id="@+id/share"
+        android:title="share"
+        android:icon="@drawable/ic_share"/>
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:id="@+id/setting"
+        android:title="setting"
+        android:icon="@drawable/ic_settings"/>
+    <item
+        android:id="@+id/signout"
+        android:title="Sign Out"
+        android:icon="@drawable/ic_signout"/>
+
+
+</menu>

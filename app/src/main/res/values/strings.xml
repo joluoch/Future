@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Future</string>
+    <string name="email">Email</string>
+    <string name="new_user_create_account">new user create account</string>
+    <string name="register_a_new_account">REGISTER A NEW ACCOUNT</string>
+    <string name="full_name">Full name</string>
+    <string name="password">password</string>
+    <string name="register">REGISTER</string>
+    <string name="or">Or</string>
+    <string name="minimum_password">minimum_password</string>
+    <string name="auth_failed">auth_failed</string>
+    <string name="sign_up_with">sign up with</string>
+    <string name="forget_password">forget password</string>
+    <string name="john_doe">john doe</string>
+    <string name="johndoes_gmail_com">johndoes@gmail.com</string>
+</resources>
